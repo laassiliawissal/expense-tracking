@@ -1,10 +1,12 @@
 # expense-tracking
 
-This application do the following: 
+    Expense Tracker is a simple Python application designed to streamline your expense management process. With this application, you can effortlessly:
 
-    - Get user input for expense.
-    - Write the expense to a CSV file.
-    - Read the file and Summarize the expenses.
+    - Input Expenses: Easily enter your expenses with a user-friendly interface.
+    - Track in CSV: Your expenses are securely stored in a CSV file, providing a structured record of your financial transactions.
+    - Summarize Spending: Quickly obtain an overview of your expenditures by allowing the application to read the CSV file and calculate the total expenses.
+
+    Simplify your financial tracking today with Expense Tracker!
 ---
 <!--
 
