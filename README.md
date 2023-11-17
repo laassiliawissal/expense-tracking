@@ -1,6 +1,7 @@
-# expense-tracking
+# Expense tracker
 
-    Expense Tracker is a simple Python application designed to streamline your expense management process. With this application, you can effortlessly:
+    Expense Tracker is a simple Python application designed to streamline 
+    your expense management process. With this application, you can effortlessly:
 
     - Input Expenses: Easily enter your expenses with a user-friendly interface.
     - Track in CSV: Your expenses are securely stored in a CSV file, providing a structured record of your financial transactions.
